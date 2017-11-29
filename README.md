@@ -10,4 +10,6 @@ npm install
 
 # run it!
 npm start
+
+# Navigate to 127.0.0.1:3000
 ```
